@@ -1,2 +1,4 @@
 # Diving-Quiz
- My first GUI-application with WPF
+ 23.04.2018 | My first GUI-application with WPF (basics). Fetching data (questions and anwers) from a DB-file, includes diving-questions. 
+ It was part of my studies at OSZ IMT - Oberstufenzentrum Informations- und Medizintechnik (www.oszimt.de). 
+ Addittionally I added a night-mode and a random-mode.
