@@ -6,3 +6,4 @@
  screenhots:
  
  <img src="https://github.com/MaximilianMahlke/Diving-Quiz/blob/main/Screenshots/DivingQuiz_Screenshots1.jpg?raw=true">
+ <img src="https://github.com/MaximilianMahlke/Diving-Quiz/blob/main/Screenshots/DivingQuiz_Screenshots2.jpg?raw=true">
